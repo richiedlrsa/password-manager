@@ -1,5 +1,5 @@
 # PyManager
-    Your all-in-one command-line password manager.
+Your all-in-one command-line password manager.
 
 ## Description
 
